@@ -1,2 +1,2 @@
 # Analysis-of-Student-Performance
-Statistical analysis on student academic performance
+Statistical analysis on student academic data
